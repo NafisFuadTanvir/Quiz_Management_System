@@ -1,0 +1,82 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Integration Testing",
+    "option 4": "Acceptance Testing",
+    "question": "Which testing ensures that changes do not affect existing functionality?",
+    "option 1": "Unit Testing",
+    "option 2": "Regression Testing"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "Smoke Testing",
+    "option 4": "Acceptance Testing",
+    "question": "What type of testing is performed without documentation?",
+    "option 1": "Ad-hoc Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit Testing",
+    "option 4": "System Testing",
+    "question": "Which testing is done by end-users or customers?",
+    "option 1": "Integration Testing",
+    "option 2": "Acceptance Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Unit Testing",
+    "option 4": "Sanity Testing",
+    "question": "Which type of testing focuses on performance under load?",
+    "option 1": "Smoke Testing",
+    "option 2": "Stress Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Test Plan",
+    "option 4": "Requirement Specification",
+    "question": "What document describes the test objectives, scope, strategy, and resources required for testing?",
+    "option 1": "Test Case",
+    "option 2": "Bug Report"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Unit Testing",
+    "option 4": "User Acceptance Testing (UAT)",
+    "question": "The phase where individual software components are tested is called:",
+    "option 1": "System Testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "To measure code coverage",
+    "option 4": "To test the performance under load",
+    "question": "What is the primary goal of Black Box Testing?",
+    "option 1": "To examine the internal structure and code",
+    "option 2": "To verify system functionality against requirements"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Security Testing",
+    "option 4": "User Acceptance Testing (UAT)",
+    "question": "Which type of testing verifies that the software meets the needs of the end-user",
+    "option 1": "Stress Testing",
+    "option 2": "Performance Testing"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Test Execution Log",
+    "option 4": "3",
+    "question": "Requirement Traceability Matrix",
+    "option 1": "Test Summary Report",
+    "option 2": "Bug Report (or Defect Report)"
+  }
+]
